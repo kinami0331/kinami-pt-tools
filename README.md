@@ -15,7 +15,7 @@
 pip install qbittorrent-api tqdm
 ```
 
-见 [check_qbit_files.py](./check_qbit_files.py)
+见 [check_qbit_files.py](./downloaders/qBittorrent/check_qbit_files.py)
 
 ## 站点相关
 
